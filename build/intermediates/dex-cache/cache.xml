@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0c469c6ff7be7f8e9871c1b064cf01b4cfca655d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f53beb6461c455ca9f0d7e9ed826c47eeeedae57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_b016b8cf41cb0129092fd31233cc6838fbd65059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_03296cd55625e3917a1145b81209474d4fc743c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9b7df52ae7cf29983e9d0034daecfed8cb07b7a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_4b21b0de2491782486bef980d1823b128b81c208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c6f77896bd01cb2e33345f9cceeda5ec646db19a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2cfc1e759fa6306d179250632817f72aa3d34a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_228c6374e944e9e640f28b0cb27c6e22fd3c0dbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_f90df9fa3cf2accb57cf2e89d7ad0c7d70704dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="73ad5b2df75ead88d46cb24a02085e71d87f0de3">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1f78765c7707f42993d1f90f4a6289d7df3c0207\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d0adbaf37416cf73d2ad64ea389f878682916f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_052ea135ec7d2ceed748d34717ea36832f9f6616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9831752b5d9973c9f1e68be4daa35b80de711515">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_49ff2771fdf0571b80aa6c4c78369f2dae943c92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b987bdebf253ea7c344936cfa9cdb4acd2a94629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a0d8f95423215cf1c57916b7d76642fe8408f97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c1705a56ab74cd4e69f01d5b04eebf9537e3a65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2b05ca7fdc52918be26a5e4d3a4e7d226c4ccfd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\SRC\AndroidProjects\AtCall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d6c448db82d9278ad3016fb764eab93f4993ddad\classes.dex" />
+    </item>
+
+</items>
